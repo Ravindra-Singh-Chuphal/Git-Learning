@@ -5,3 +5,5 @@
 
   const footer = "fotter added in our website"
   console.log(footer);
+  const payment = "integrated the payment gateway"
+  console.log(payment);
